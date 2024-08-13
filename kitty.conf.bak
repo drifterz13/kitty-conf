@@ -1,0 +1,14 @@
+background_image ~/.config/kitty/bg/sniper-bg.png
+background_image_layout cscaled
+background_opacity 0.9
+background_tint 0.9
+background_blur 24
+
+font_size 14
+allow_remote_control yes
+
+
+# BEGIN_KITTY_THEME
+# YsDark
+include current-theme.conf
+# END_KITTY_THEME
